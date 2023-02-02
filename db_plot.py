@@ -28,9 +28,9 @@ table_selected = tk.StringVar()
 DPE_selected = tk.StringVar()
 timerange_selected = tk.StringVar()
 
-table_dropdown = ttk.Combobox(textvariable=table_selected)
-DPE_dropdown = ttk.Combobox(textvariable=DPE_selected)
-timerange_dropdown = ttk.Combobox(textvariable=timerange_selected)
+table_dropdown = ttk.Combobox(textvariable=table_selected,width=50)
+DPE_dropdown = ttk.Combobox(textvariable=DPE_selected,width=50)
+timerange_dropdown = ttk.Combobox(textvariable=timerange_selected,width=50)
 
 plot_button = ttk.Button(text="Plot",state=tk.DISABLED)
 
@@ -44,7 +44,7 @@ plot_button.grid(row=3,column=0,padx=10,pady=10)
 
 def query(querystring):
     try:
-        cnx = mysql.connector.connect(user='mvtx',host='127.0.0.1',port='3307',database='mvtx',password=password.get())
+        cnx = mysql.connector.connect(user=user,host=host,port=port,database=database,password=password.get())
         crsr = cnx.cursor()
     except mysql.connector.Error as err:
         showinfo("MySQL Error",message=err)

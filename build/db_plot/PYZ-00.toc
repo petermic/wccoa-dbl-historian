@@ -911,10 +911,6 @@
    'c:\\users\\michael '
    'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pkg_resources\\__init__.py',
    'PYMODULE'),
-  ('packaging.specifiers',
-   'c:\\users\\michael '
-   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\packaging\\specifiers.py',
-   'PYMODULE'),
   ('packaging.markers',
    'c:\\users\\michael '
    'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\packaging\\markers.py',
@@ -963,21 +959,37 @@
    'c:\\users\\michael '
    'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyparsing\\util.py',
    'PYMODULE'),
+  ('packaging.version',
+   'c:\\users\\michael '
+   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\packaging\\version.py',
+   'PYMODULE'),
+  ('packaging.specifiers',
+   'c:\\users\\michael '
+   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('packaging.requirements',
+   'c:\\users\\michael '
+   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\packaging\\requirements.py',
+   'PYMODULE'),
   ('packaging.utils',
    'c:\\users\\michael '
    'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\packaging\\utils.py',
-   'PYMODULE'),
-  ('packaging._manylinux',
-   'c:\\users\\michael '
-   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\packaging\\_manylinux.py',
    'PYMODULE'),
   ('packaging.tags',
    'c:\\users\\michael '
    'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\packaging\\tags.py',
    'PYMODULE'),
-  ('packaging.requirements',
+  ('packaging',
    'c:\\users\\michael '
-   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\packaging\\requirements.py',
+   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('packaging._manylinux',
+   'c:\\users\\michael '
+   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('packaging._structures',
+   'c:\\users\\michael '
+   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\packaging\\_structures.py',
    'PYMODULE'),
   ('packaging._musllinux',
    'c:\\users\\michael '
@@ -987,57 +999,25 @@
    'c:\\users\\michael '
    'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\packaging\\__about__.py',
    'PYMODULE'),
-  ('packaging',
-   'c:\\users\\michael '
-   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\packaging\\__init__.py',
-   'PYMODULE'),
-  ('packaging.version',
-   'c:\\users\\michael '
-   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\packaging\\version.py',
-   'PYMODULE'),
-  ('packaging._structures',
-   'c:\\users\\michael '
-   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\packaging\\_structures.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.packaging.specifiers',
-   'c:\\users\\michael '
-   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
-   'PYMODULE'),
   ('pkg_resources._vendor',
    'c:\\users\\michael '
    'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
    'PYMODULE'),
-  ('pkg_resources._vendor.appdirs',
+  ('pkg_resources._vendor.packaging.requirements',
    'c:\\users\\michael '
-   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
+   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
    'PYMODULE'),
-  ('pkg_resources._vendor.pyparsing',
+  ('pkg_resources._vendor.packaging',
    'c:\\users\\michael '
-   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing.py',
-   'PYMODULE'),
-  ('uuid',
-   'c:\\users\\michael '
-   'peters\\appdata\\local\\programs\\python\\python39\\lib\\uuid.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.packaging.__about__',
-   'c:\\users\\michael '
-   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.packaging._compat',
-   'c:\\users\\michael '
-   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_compat.py',
+   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
    'PYMODULE'),
   ('pkg_resources._vendor.packaging.markers',
    'c:\\users\\michael '
    'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
    'PYMODULE'),
-  ('pkg_resources._vendor.packaging._structures',
+  ('pkg_resources._vendor.packaging._compat',
    'c:\\users\\michael '
-   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.packaging.requirements',
-   'c:\\users\\michael '
-   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_compat.py',
    'PYMODULE'),
   ('pkg_resources._vendor.packaging.tags',
    'c:\\users\\michael '
@@ -1051,13 +1031,33 @@
    'c:\\users\\michael '
    'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_typing.py',
    'PYMODULE'),
-  ('pkg_resources._vendor.packaging',
+  ('pkg_resources._vendor.packaging._structures',
    'c:\\users\\michael '
-   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.__about__',
+   'c:\\users\\michael '
+   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.appdirs',
+   'c:\\users\\michael '
+   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing',
+   'c:\\users\\michael '
+   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing.py',
+   'PYMODULE'),
+  ('uuid',
+   'c:\\users\\michael '
+   'peters\\appdata\\local\\programs\\python\\python39\\lib\\uuid.py',
    'PYMODULE'),
   ('pkg_resources._vendor.packaging.utils',
    'c:\\users\\michael '
    'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.specifiers',
+   'c:\\users\\michael '
+   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
    'PYMODULE'),
   ('pkg_resources.extern',
    'c:\\users\\michael '
@@ -1067,6 +1067,10 @@
    'c:\\users\\michael '
    'peters\\appdata\\local\\programs\\python\\python39\\lib\\imp.py',
    'PYMODULE'),
+  ('_py_abc',
+   'c:\\users\\michael '
+   'peters\\appdata\\local\\programs\\python\\python39\\lib\\_py_abc.py',
+   'PYMODULE'),
   ('tracemalloc',
    'c:\\users\\michael '
    'peters\\appdata\\local\\programs\\python\\python39\\lib\\tracemalloc.py',
@@ -1074,10 +1078,6 @@
   ('stringprep',
    'c:\\users\\michael '
    'peters\\appdata\\local\\programs\\python\\python39\\lib\\stringprep.py',
-   'PYMODULE'),
-  ('_py_abc',
-   'c:\\users\\michael '
-   'peters\\appdata\\local\\programs\\python\\python39\\lib\\_py_abc.py',
    'PYMODULE'),
   ('datetime',
    'c:\\users\\michael '
@@ -1603,13 +1603,13 @@
    'c:\\users\\michael '
    'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pandas\\__init__.py',
    'PYMODULE'),
-  ('pandas._libs.window',
-   'c:\\users\\michael '
-   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pandas\\_libs\\window\\__init__.py',
-   'PYMODULE'),
   ('pandas._libs.tslibs',
    'c:\\users\\michael '
    'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pandas\\_libs\\tslibs\\__init__.py',
+   'PYMODULE'),
+  ('pandas._libs.window',
+   'c:\\users\\michael '
+   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pandas\\_libs\\window\\__init__.py',
    'PYMODULE'),
   ('pandas._version',
    'c:\\users\\michael '
@@ -1887,6 +1887,66 @@
    'c:\\users\\michael '
    'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\Image.py',
    'PYMODULE'),
+  ('PIL.BufrStubImagePlugin',
+   'c:\\users\\michael '
+   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageFile',
+   'c:\\users\\michael '
+   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\ImageFile.py',
+   'PYMODULE'),
+  ('PIL.Hdf5StubImagePlugin',
+   'c:\\users\\michael '
+   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PsdImagePlugin',
+   'c:\\users\\michael '
+   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\PsdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FpxImagePlugin',
+   'c:\\users\\michael '
+   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\FpxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   'c:\\users\\michael '
+   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   'c:\\users\\michael '
+   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WebPImagePlugin',
+   'c:\\users\\michael '
+   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   'c:\\users\\michael '
+   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   'c:\\users\\michael '
+   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\XbmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FitsStubImagePlugin',
+   'c:\\users\\michael '
+   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\FitsStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TgaImagePlugin',
+   'c:\\users\\michael '
+   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\TgaImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WmfImagePlugin',
+   'c:\\users\\michael '
+   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\WmfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.McIdasImagePlugin',
+   'c:\\users\\michael '
+   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   'c:\\users\\michael '
+   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'PYMODULE'),
   ('PIL.IcnsImagePlugin',
    'c:\\users\\michael '
    'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\IcnsImagePlugin.py',
@@ -1895,45 +1955,69 @@
    'c:\\users\\michael '
    'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\features.py',
    'PYMODULE'),
-  ('PIL.ImageFile',
+  ('PIL.ImtImagePlugin',
    'c:\\users\\michael '
-   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\ImageFile.py',
+   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GbrImagePlugin',
+   'c:\\users\\michael '
+   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\GbrImagePlugin.py',
    'PYMODULE'),
   ('PIL.BlpImagePlugin',
    'c:\\users\\michael '
    'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\BlpImagePlugin.py',
    'PYMODULE'),
-  ('PIL.PsdImagePlugin',
+  ('PIL.PcxImagePlugin',
    'c:\\users\\michael '
-   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\PsdImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.DdsImagePlugin',
-   'c:\\users\\michael '
-   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\DdsImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.SunImagePlugin',
-   'c:\\users\\michael '
-   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\SunImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.PcdImagePlugin',
-   'c:\\users\\michael '
-   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\PcdImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.SgiImagePlugin',
-   'c:\\users\\michael '
-   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\SgiImagePlugin.py',
+   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\PcxImagePlugin.py',
    'PYMODULE'),
   ('PIL.GribStubImagePlugin',
    'c:\\users\\michael '
    'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\GribStubImagePlugin.py',
    'PYMODULE'),
-  ('PIL.Hdf5StubImagePlugin',
+  ('PIL.DcxImagePlugin',
    'c:\\users\\michael '
-   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\DcxImagePlugin.py',
    'PYMODULE'),
-  ('PIL.GbrImagePlugin',
+  ('PIL.DdsImagePlugin',
    'c:\\users\\michael '
-   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\GbrImagePlugin.py',
+   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\DdsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   'c:\\users\\michael '
+   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   'c:\\users\\michael '
+   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   'c:\\users\\michael '
+   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   'c:\\users\\michael '
+   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpegImagePlugin',
+   'c:\\users\\michael '
+   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FliImagePlugin',
+   'c:\\users\\michael '
+   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\FliImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MspImagePlugin',
+   'c:\\users\\michael '
+   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FtexImagePlugin',
+   'c:\\users\\michael '
+   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\FtexImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Jpeg2KImagePlugin',
+   'c:\\users\\michael '
+   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
    'PYMODULE'),
   ('PIL.PdfImagePlugin',
    'c:\\users\\michael '
@@ -1947,85 +2031,9 @@
    'c:\\users\\michael '
    'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\ImageSequence.py',
    'PYMODULE'),
-  ('PIL.PalmImagePlugin',
+  ('PIL.MpoImagePlugin',
    'c:\\users\\michael '
-   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\PalmImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.BufrStubImagePlugin',
-   'c:\\users\\michael '
-   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.FpxImagePlugin',
-   'c:\\users\\michael '
-   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\FpxImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.WebPImagePlugin',
-   'c:\\users\\michael '
-   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\WebPImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.EpsImagePlugin',
-   'c:\\users\\michael '
-   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\EpsImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.XVThumbImagePlugin',
-   'c:\\users\\michael '
-   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.FtexImagePlugin',
-   'c:\\users\\michael '
-   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\FtexImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.IptcImagePlugin',
-   'c:\\users\\michael '
-   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\IptcImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.DcxImagePlugin',
-   'c:\\users\\michael '
-   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\DcxImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.CurImagePlugin',
-   'c:\\users\\michael '
-   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\CurImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.IcoImagePlugin',
-   'c:\\users\\michael '
-   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\IcoImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.FliImagePlugin',
-   'c:\\users\\michael '
-   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\FliImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.ImImagePlugin',
-   'c:\\users\\michael '
-   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\ImImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.XpmImagePlugin',
-   'c:\\users\\michael '
-   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\XpmImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.MspImagePlugin',
-   'c:\\users\\michael '
-   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\MspImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.WmfImagePlugin',
-   'c:\\users\\michael '
-   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\WmfImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.Jpeg2KImagePlugin',
-   'c:\\users\\michael '
-   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.FitsStubImagePlugin',
-   'c:\\users\\michael '
-   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\FitsStubImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.PixarImagePlugin',
-   'c:\\users\\michael '
-   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\PixarImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.PcxImagePlugin',
-   'c:\\users\\michael '
-   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\PcxImagePlugin.py',
+   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\MpoImagePlugin.py',
    'PYMODULE'),
   ('PIL.SpiderImagePlugin',
    'c:\\users\\michael '
@@ -2035,33 +2043,25 @@
    'c:\\users\\michael '
    'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\ImageTk.py',
    'PYMODULE'),
-  ('PIL.MpoImagePlugin',
+  ('PIL.SgiImagePlugin',
    'c:\\users\\michael '
-   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\SgiImagePlugin.py',
    'PYMODULE'),
-  ('PIL.MpegImagePlugin',
+  ('PIL.SunImagePlugin',
    'c:\\users\\michael '
-   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\SunImagePlugin.py',
    'PYMODULE'),
-  ('PIL.ImtImagePlugin',
+  ('PIL.IcoImagePlugin',
    'c:\\users\\michael '
-   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\IcoImagePlugin.py',
    'PYMODULE'),
   ('PIL.MicImagePlugin',
    'c:\\users\\michael '
    'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\MicImagePlugin.py',
    'PYMODULE'),
-  ('PIL.TgaImagePlugin',
+  ('PIL.IptcImagePlugin',
    'c:\\users\\michael '
-   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\TgaImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.McIdasImagePlugin',
-   'c:\\users\\michael '
-   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\McIdasImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.XbmImagePlugin',
-   'c:\\users\\michael '
-   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\XbmImagePlugin.py',
+   'peters\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\IptcImagePlugin.py',
    'PYMODULE'),
   ('PIL.TiffImagePlugin',
    'c:\\users\\michael '
