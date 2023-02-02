@@ -1,0 +1,89 @@
+('C:\\Users\\Michael '
+ 'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\package_data\\',
+ '.\\plotly\\package_data',
+ [],
+ 'DATA',
+ [('.\\plotly\\package_data\\plotly.min.js',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\package_data\\plotly.min.js',
+   'DATA'),
+  ('.\\plotly\\package_data\\templates\\ggplot2.json',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\package_data\\templates\\ggplot2.json',
+   'DATA'),
+  ('.\\plotly\\package_data\\templates\\gridon.json',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\package_data\\templates\\gridon.json',
+   'DATA'),
+  ('.\\plotly\\package_data\\templates\\plotly.json',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\package_data\\templates\\plotly.json',
+   'DATA'),
+  ('.\\plotly\\package_data\\templates\\plotly_dark.json',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\package_data\\templates\\plotly_dark.json',
+   'DATA'),
+  ('.\\plotly\\package_data\\templates\\plotly_white.json',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\package_data\\templates\\plotly_white.json',
+   'DATA'),
+  ('.\\plotly\\package_data\\templates\\presentation.json',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\package_data\\templates\\presentation.json',
+   'DATA'),
+  ('.\\plotly\\package_data\\templates\\seaborn.json',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\package_data\\templates\\seaborn.json',
+   'DATA'),
+  ('.\\plotly\\package_data\\templates\\simple_white.json',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\package_data\\templates\\simple_white.json',
+   'DATA'),
+  ('.\\plotly\\package_data\\templates\\xgridoff.json',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\package_data\\templates\\xgridoff.json',
+   'DATA'),
+  ('.\\plotly\\package_data\\templates\\ygridoff.json',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\package_data\\templates\\ygridoff.json',
+   'DATA'),
+  ('.\\plotly\\package_data\\datasets\\carshare.csv.gz',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\package_data\\datasets\\carshare.csv.gz',
+   'DATA'),
+  ('.\\plotly\\package_data\\datasets\\election.csv.gz',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\package_data\\datasets\\election.csv.gz',
+   'DATA'),
+  ('.\\plotly\\package_data\\datasets\\election.geojson.gz',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\package_data\\datasets\\election.geojson.gz',
+   'DATA'),
+  ('.\\plotly\\package_data\\datasets\\experiment.csv.gz',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\package_data\\datasets\\experiment.csv.gz',
+   'DATA'),
+  ('.\\plotly\\package_data\\datasets\\gapminder.csv.gz',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\package_data\\datasets\\gapminder.csv.gz',
+   'DATA'),
+  ('.\\plotly\\package_data\\datasets\\iris.csv.gz',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\package_data\\datasets\\iris.csv.gz',
+   'DATA'),
+  ('.\\plotly\\package_data\\datasets\\medals.csv.gz',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\package_data\\datasets\\medals.csv.gz',
+   'DATA'),
+  ('.\\plotly\\package_data\\datasets\\stocks.csv.gz',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\package_data\\datasets\\stocks.csv.gz',
+   'DATA'),
+  ('.\\plotly\\package_data\\datasets\\tips.csv.gz',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\package_data\\datasets\\tips.csv.gz',
+   'DATA'),
+  ('.\\plotly\\package_data\\datasets\\wind.csv.gz',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\package_data\\datasets\\wind.csv.gz',
+   'DATA')])

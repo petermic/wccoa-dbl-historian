@@ -1,0 +1,2325 @@
+('C:\\Users\\Michael '
+ 'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\',
+ '.\\plotly\\validators\\scatter',
+ [],
+ 'DATA',
+ [('.\\plotly\\validators\\scatter\\_alignmentgroup.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_alignmentgroup.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_cliponaxis.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_cliponaxis.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_connectgaps.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_connectgaps.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_customdata.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_customdata.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_customdatasrc.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_customdatasrc.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_dx.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_dx.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_dy.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_dy.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_error_x.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_error_x.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_error_y.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_error_y.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_fill.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_fill.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_fillcolor.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_fillcolor.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_fillpattern.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_fillpattern.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_groupnorm.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_groupnorm.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_hoverinfo.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_hoverinfo.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_hoverinfosrc.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_hoverinfosrc.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_hoverlabel.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_hoverlabel.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_hoveron.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_hoveron.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_hovertemplate.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_hovertemplate.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_hovertemplatesrc.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_hovertemplatesrc.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_hovertext.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_hovertext.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_hovertextsrc.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_hovertextsrc.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_ids.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_ids.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_idssrc.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_idssrc.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_legendgroup.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_legendgroup.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_legendgrouptitle.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_legendgrouptitle.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_legendrank.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_legendrank.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_legendwidth.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_legendwidth.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_line.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_line.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_marker.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_marker.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_meta.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_meta.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_metasrc.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_metasrc.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_mode.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_mode.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_name.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_name.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_offsetgroup.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_offsetgroup.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_opacity.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_opacity.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_orientation.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_orientation.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_selected.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_selected.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_selectedpoints.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_selectedpoints.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_showlegend.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_showlegend.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_stackgaps.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_stackgaps.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_stackgroup.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_stackgroup.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_stream.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_stream.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_text.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_text.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_textfont.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_textfont.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_textposition.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_textposition.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_textpositionsrc.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_textpositionsrc.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_textsrc.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_textsrc.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_texttemplate.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_texttemplate.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_texttemplatesrc.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_texttemplatesrc.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_uid.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_uid.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_uirevision.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_uirevision.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_unselected.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_unselected.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_visible.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_visible.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_x.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_x.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_x0.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_x0.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_xaxis.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_xaxis.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_xcalendar.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_xcalendar.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_xhoverformat.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_xhoverformat.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_xperiod.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_xperiod.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_xperiod0.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_xperiod0.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_xperiodalignment.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_xperiodalignment.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_xsrc.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_xsrc.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_y.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_y.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_y0.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_y0.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_yaxis.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_yaxis.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_ycalendar.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_ycalendar.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_yhoverformat.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_yhoverformat.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_yperiod.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_yperiod.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_yperiod0.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_yperiod0.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_yperiodalignment.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_yperiodalignment.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\_ysrc.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\_ysrc.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__init__.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__init__.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_alignmentgroup.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_alignmentgroup.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_cliponaxis.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_cliponaxis.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_connectgaps.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_connectgaps.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_customdata.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_customdata.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_customdatasrc.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_customdatasrc.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_dx.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_dx.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_dy.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_dy.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_error_x.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_error_x.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_error_y.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_error_y.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_fill.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_fill.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_fillcolor.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_fillcolor.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_fillpattern.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_fillpattern.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_groupnorm.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_groupnorm.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_hoverinfo.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_hoverinfo.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_hoverinfosrc.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_hoverinfosrc.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_hoverlabel.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_hoverlabel.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_hoveron.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_hoveron.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_hovertemplate.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_hovertemplate.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_hovertemplatesrc.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_hovertemplatesrc.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_hovertext.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_hovertext.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_hovertextsrc.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_hovertextsrc.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_ids.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_ids.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_idssrc.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_idssrc.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_legendgroup.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_legendgroup.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_legendgrouptitle.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_legendgrouptitle.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_legendrank.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_legendrank.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_legendwidth.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_legendwidth.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_line.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_line.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_marker.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_marker.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_meta.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_meta.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_metasrc.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_metasrc.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_mode.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_mode.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_name.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_name.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_offsetgroup.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_offsetgroup.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_opacity.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_opacity.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_orientation.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_orientation.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_selected.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_selected.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_selectedpoints.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_selectedpoints.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_showlegend.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_showlegend.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_stackgaps.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_stackgaps.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_stackgroup.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_stackgroup.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_stream.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_stream.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_text.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_text.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_textfont.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_textfont.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_textposition.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_textposition.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_textpositionsrc.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_textpositionsrc.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_textsrc.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_textsrc.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_texttemplate.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_texttemplate.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_texttemplatesrc.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_texttemplatesrc.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_uid.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_uid.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_uirevision.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_uirevision.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_unselected.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_unselected.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_visible.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_visible.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_x.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_x.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_x0.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_x0.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_xaxis.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_xaxis.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_xcalendar.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_xcalendar.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_xhoverformat.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_xhoverformat.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_xperiod.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_xperiod.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_xperiod0.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_xperiod0.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_xperiodalignment.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_xperiodalignment.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_xsrc.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_xsrc.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_y.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_y.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_y0.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_y0.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_yaxis.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_yaxis.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_ycalendar.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_ycalendar.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_yhoverformat.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_yhoverformat.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_yperiod.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_yperiod.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_yperiod0.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_yperiod0.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_yperiodalignment.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_yperiodalignment.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\_ysrc.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\_ysrc.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\__pycache__\\__init__.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\__pycache__\\__init__.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\unselected\\_marker.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\unselected\\_marker.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\unselected\\_textfont.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\unselected\\_textfont.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\unselected\\__init__.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\unselected\\__init__.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\unselected\\__pycache__\\_marker.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\unselected\\__pycache__\\_marker.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\unselected\\__pycache__\\_textfont.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\unselected\\__pycache__\\_textfont.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\unselected\\__pycache__\\__init__.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\unselected\\__pycache__\\__init__.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\unselected\\textfont\\_color.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\unselected\\textfont\\_color.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\unselected\\textfont\\__init__.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\unselected\\textfont\\__init__.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\unselected\\textfont\\__pycache__\\_color.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\unselected\\textfont\\__pycache__\\_color.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\unselected\\textfont\\__pycache__\\__init__.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\unselected\\textfont\\__pycache__\\__init__.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\unselected\\marker\\_color.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\unselected\\marker\\_color.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\unselected\\marker\\_opacity.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\unselected\\marker\\_opacity.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\unselected\\marker\\_size.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\unselected\\marker\\_size.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\unselected\\marker\\__init__.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\unselected\\marker\\__init__.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\unselected\\marker\\__pycache__\\_color.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\unselected\\marker\\__pycache__\\_color.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\unselected\\marker\\__pycache__\\_opacity.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\unselected\\marker\\__pycache__\\_opacity.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\unselected\\marker\\__pycache__\\_size.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\unselected\\marker\\__pycache__\\_size.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\unselected\\marker\\__pycache__\\__init__.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\unselected\\marker\\__pycache__\\__init__.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\textfont\\_color.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\textfont\\_color.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\textfont\\_colorsrc.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\textfont\\_colorsrc.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\textfont\\_family.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\textfont\\_family.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\textfont\\_familysrc.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\textfont\\_familysrc.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\textfont\\_size.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\textfont\\_size.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\textfont\\_sizesrc.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\textfont\\_sizesrc.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\textfont\\__init__.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\textfont\\__init__.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\textfont\\__pycache__\\_color.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\textfont\\__pycache__\\_color.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\textfont\\__pycache__\\_colorsrc.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\textfont\\__pycache__\\_colorsrc.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\textfont\\__pycache__\\_family.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\textfont\\__pycache__\\_family.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\textfont\\__pycache__\\_familysrc.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\textfont\\__pycache__\\_familysrc.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\textfont\\__pycache__\\_size.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\textfont\\__pycache__\\_size.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\textfont\\__pycache__\\_sizesrc.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\textfont\\__pycache__\\_sizesrc.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\textfont\\__pycache__\\__init__.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\textfont\\__pycache__\\__init__.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\stream\\_maxpoints.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\stream\\_maxpoints.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\stream\\_token.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\stream\\_token.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\stream\\__init__.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\stream\\__init__.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\stream\\__pycache__\\_maxpoints.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\stream\\__pycache__\\_maxpoints.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\stream\\__pycache__\\_token.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\stream\\__pycache__\\_token.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\stream\\__pycache__\\__init__.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\stream\\__pycache__\\__init__.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\selected\\_marker.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\selected\\_marker.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\selected\\_textfont.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\selected\\_textfont.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\selected\\__init__.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\selected\\__init__.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\selected\\__pycache__\\_marker.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\selected\\__pycache__\\_marker.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\selected\\__pycache__\\_textfont.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\selected\\__pycache__\\_textfont.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\selected\\__pycache__\\__init__.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\selected\\__pycache__\\__init__.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\selected\\textfont\\_color.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\selected\\textfont\\_color.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\selected\\textfont\\__init__.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\selected\\textfont\\__init__.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\selected\\textfont\\__pycache__\\_color.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\selected\\textfont\\__pycache__\\_color.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\selected\\textfont\\__pycache__\\__init__.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\selected\\textfont\\__pycache__\\__init__.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\selected\\marker\\_color.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\selected\\marker\\_color.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\selected\\marker\\_opacity.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\selected\\marker\\_opacity.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\selected\\marker\\_size.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\selected\\marker\\_size.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\selected\\marker\\__init__.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\selected\\marker\\__init__.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\selected\\marker\\__pycache__\\_color.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\selected\\marker\\__pycache__\\_color.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\selected\\marker\\__pycache__\\_opacity.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\selected\\marker\\__pycache__\\_opacity.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\selected\\marker\\__pycache__\\_size.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\selected\\marker\\__pycache__\\_size.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\selected\\marker\\__pycache__\\__init__.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\selected\\marker\\__pycache__\\__init__.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\_angle.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\_angle.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\_angleref.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\_angleref.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\_anglesrc.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\_anglesrc.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\_autocolorscale.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\_autocolorscale.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\_cauto.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\_cauto.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\_cmax.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\_cmax.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\_cmid.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\_cmid.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\_cmin.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\_cmin.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\_color.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\_color.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\_coloraxis.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\_coloraxis.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\_colorbar.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\_colorbar.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\_colorscale.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\_colorscale.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\_colorsrc.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\_colorsrc.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\_gradient.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\_gradient.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\_line.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\_line.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\_maxdisplayed.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\_maxdisplayed.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\_opacity.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\_opacity.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\_opacitysrc.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\_opacitysrc.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\_reversescale.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\_reversescale.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\_showscale.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\_showscale.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\_size.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\_size.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\_sizemin.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\_sizemin.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\_sizemode.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\_sizemode.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\_sizeref.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\_sizeref.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\_sizesrc.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\_sizesrc.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\_standoff.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\_standoff.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\_standoffsrc.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\_standoffsrc.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\_symbol.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\_symbol.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\_symbolsrc.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\_symbolsrc.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\__init__.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\__init__.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\__pycache__\\_angle.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\__pycache__\\_angle.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\__pycache__\\_angleref.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\__pycache__\\_angleref.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\__pycache__\\_anglesrc.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\__pycache__\\_anglesrc.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\__pycache__\\_autocolorscale.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\__pycache__\\_autocolorscale.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\__pycache__\\_cauto.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\__pycache__\\_cauto.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\__pycache__\\_cmax.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\__pycache__\\_cmax.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\__pycache__\\_cmid.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\__pycache__\\_cmid.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\__pycache__\\_cmin.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\__pycache__\\_cmin.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\__pycache__\\_color.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\__pycache__\\_color.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\__pycache__\\_coloraxis.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\__pycache__\\_coloraxis.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\__pycache__\\_colorbar.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\__pycache__\\_colorbar.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\__pycache__\\_colorscale.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\__pycache__\\_colorscale.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\__pycache__\\_colorsrc.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\__pycache__\\_colorsrc.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\__pycache__\\_gradient.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\__pycache__\\_gradient.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\__pycache__\\_line.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\__pycache__\\_line.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\__pycache__\\_maxdisplayed.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\__pycache__\\_maxdisplayed.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\__pycache__\\_opacity.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\__pycache__\\_opacity.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\__pycache__\\_opacitysrc.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\__pycache__\\_opacitysrc.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\__pycache__\\_reversescale.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\__pycache__\\_reversescale.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\__pycache__\\_showscale.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\__pycache__\\_showscale.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\__pycache__\\_size.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\__pycache__\\_size.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\__pycache__\\_sizemin.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\__pycache__\\_sizemin.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\__pycache__\\_sizemode.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\__pycache__\\_sizemode.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\__pycache__\\_sizeref.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\__pycache__\\_sizeref.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\__pycache__\\_sizesrc.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\__pycache__\\_sizesrc.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\__pycache__\\_standoff.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\__pycache__\\_standoff.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\__pycache__\\_standoffsrc.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\__pycache__\\_standoffsrc.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\__pycache__\\_symbol.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\__pycache__\\_symbol.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\__pycache__\\_symbolsrc.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\__pycache__\\_symbolsrc.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\__pycache__\\__init__.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\__pycache__\\__init__.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\line\\_autocolorscale.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\line\\_autocolorscale.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\line\\_cauto.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\line\\_cauto.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\line\\_cmax.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\line\\_cmax.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\line\\_cmid.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\line\\_cmid.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\line\\_cmin.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\line\\_cmin.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\line\\_color.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\line\\_color.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\line\\_coloraxis.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\line\\_coloraxis.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\line\\_colorscale.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\line\\_colorscale.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\line\\_colorsrc.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\line\\_colorsrc.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\line\\_reversescale.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\line\\_reversescale.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\line\\_width.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\line\\_width.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\line\\_widthsrc.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\line\\_widthsrc.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\line\\__init__.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\line\\__init__.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\line\\__pycache__\\_autocolorscale.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\line\\__pycache__\\_autocolorscale.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\line\\__pycache__\\_cauto.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\line\\__pycache__\\_cauto.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\line\\__pycache__\\_cmax.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\line\\__pycache__\\_cmax.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\line\\__pycache__\\_cmid.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\line\\__pycache__\\_cmid.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\line\\__pycache__\\_cmin.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\line\\__pycache__\\_cmin.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\line\\__pycache__\\_color.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\line\\__pycache__\\_color.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\line\\__pycache__\\_coloraxis.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\line\\__pycache__\\_coloraxis.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\line\\__pycache__\\_colorscale.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\line\\__pycache__\\_colorscale.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\line\\__pycache__\\_colorsrc.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\line\\__pycache__\\_colorsrc.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\line\\__pycache__\\_reversescale.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\line\\__pycache__\\_reversescale.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\line\\__pycache__\\_width.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\line\\__pycache__\\_width.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\line\\__pycache__\\_widthsrc.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\line\\__pycache__\\_widthsrc.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\line\\__pycache__\\__init__.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\line\\__pycache__\\__init__.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\gradient\\_color.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\gradient\\_color.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\gradient\\_colorsrc.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\gradient\\_colorsrc.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\gradient\\_type.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\gradient\\_type.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\gradient\\_typesrc.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\gradient\\_typesrc.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\gradient\\__init__.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\gradient\\__init__.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\gradient\\__pycache__\\_color.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\gradient\\__pycache__\\_color.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\gradient\\__pycache__\\_colorsrc.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\gradient\\__pycache__\\_colorsrc.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\gradient\\__pycache__\\_type.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\gradient\\__pycache__\\_type.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\gradient\\__pycache__\\_typesrc.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\gradient\\__pycache__\\_typesrc.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\gradient\\__pycache__\\__init__.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\gradient\\__pycache__\\__init__.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\_bgcolor.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\_bgcolor.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\_bordercolor.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\_bordercolor.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\_borderwidth.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\_borderwidth.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\_dtick.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\_dtick.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\_exponentformat.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\_exponentformat.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\_len.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\_len.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\_lenmode.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\_lenmode.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\_minexponent.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\_minexponent.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\_nticks.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\_nticks.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\_orientation.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\_orientation.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\_outlinecolor.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\_outlinecolor.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\_outlinewidth.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\_outlinewidth.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\_separatethousands.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\_separatethousands.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\_showexponent.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\_showexponent.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\_showticklabels.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\_showticklabels.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\_showtickprefix.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\_showtickprefix.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\_showticksuffix.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\_showticksuffix.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\_thickness.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\_thickness.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\_thicknessmode.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\_thicknessmode.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\_tick0.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\_tick0.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\_tickangle.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\_tickangle.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\_tickcolor.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\_tickcolor.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\_tickfont.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\_tickfont.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\_tickformat.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\_tickformat.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\_tickformatstopdefaults.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\_tickformatstopdefaults.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\_tickformatstops.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\_tickformatstops.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\_ticklabeloverflow.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\_ticklabeloverflow.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\_ticklabelposition.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\_ticklabelposition.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\_ticklabelstep.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\_ticklabelstep.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\_ticklen.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\_ticklen.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\_tickmode.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\_tickmode.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\_tickprefix.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\_tickprefix.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\_ticks.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\_ticks.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\_ticksuffix.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\_ticksuffix.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\_ticktext.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\_ticktext.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\_ticktextsrc.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\_ticktextsrc.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\_tickvals.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\_tickvals.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\_tickvalssrc.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\_tickvalssrc.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\_tickwidth.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\_tickwidth.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\_title.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\_title.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\_x.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\_x.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\_xanchor.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\_xanchor.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\_xpad.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\_xpad.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\_y.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\_y.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\_yanchor.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\_yanchor.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\_ypad.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\_ypad.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\__init__.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\__init__.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_bgcolor.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_bgcolor.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_bordercolor.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_bordercolor.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_borderwidth.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_borderwidth.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_dtick.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_dtick.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_exponentformat.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_exponentformat.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_len.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_len.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_lenmode.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_lenmode.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_minexponent.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_minexponent.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_nticks.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_nticks.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_orientation.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_orientation.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_outlinecolor.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_outlinecolor.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_outlinewidth.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_outlinewidth.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_separatethousands.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_separatethousands.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_showexponent.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_showexponent.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_showticklabels.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_showticklabels.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_showtickprefix.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_showtickprefix.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_showticksuffix.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_showticksuffix.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_thickness.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_thickness.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_thicknessmode.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_thicknessmode.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_tick0.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_tick0.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_tickangle.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_tickangle.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_tickcolor.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_tickcolor.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_tickfont.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_tickfont.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_tickformat.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_tickformat.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_tickformatstopdefaults.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_tickformatstopdefaults.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_tickformatstops.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_tickformatstops.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_ticklabeloverflow.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_ticklabeloverflow.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_ticklabelposition.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_ticklabelposition.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_ticklabelstep.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_ticklabelstep.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_ticklen.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_ticklen.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_tickmode.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_tickmode.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_tickprefix.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_tickprefix.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_ticks.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_ticks.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_ticksuffix.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_ticksuffix.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_ticktext.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_ticktext.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_ticktextsrc.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_ticktextsrc.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_tickvals.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_tickvals.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_tickvalssrc.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_tickvalssrc.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_tickwidth.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_tickwidth.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_title.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_title.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_x.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_x.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_xanchor.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_xanchor.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_xpad.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_xpad.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_y.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_y.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_yanchor.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_yanchor.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_ypad.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\_ypad.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\__init__.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\__pycache__\\__init__.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\title\\_font.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\title\\_font.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\title\\_side.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\title\\_side.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\title\\_text.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\title\\_text.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\title\\__init__.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\title\\__init__.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\title\\__pycache__\\_font.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\title\\__pycache__\\_font.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\title\\__pycache__\\_side.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\title\\__pycache__\\_side.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\title\\__pycache__\\_text.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\title\\__pycache__\\_text.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\title\\__pycache__\\__init__.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\title\\__pycache__\\__init__.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\title\\font\\_color.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\title\\font\\_color.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\title\\font\\_family.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\title\\font\\_family.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\title\\font\\_size.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\title\\font\\_size.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\title\\font\\__init__.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\title\\font\\__init__.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\title\\font\\__pycache__\\_color.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\title\\font\\__pycache__\\_color.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\title\\font\\__pycache__\\_family.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\title\\font\\__pycache__\\_family.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\title\\font\\__pycache__\\_size.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\title\\font\\__pycache__\\_size.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\title\\font\\__pycache__\\__init__.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\title\\font\\__pycache__\\__init__.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\tickformatstop\\_dtickrange.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\tickformatstop\\_dtickrange.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\tickformatstop\\_enabled.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\tickformatstop\\_enabled.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\tickformatstop\\_name.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\tickformatstop\\_name.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\tickformatstop\\_templateitemname.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\tickformatstop\\_templateitemname.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\tickformatstop\\_value.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\tickformatstop\\_value.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\tickformatstop\\__init__.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\tickformatstop\\__init__.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\tickformatstop\\__pycache__\\_dtickrange.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\tickformatstop\\__pycache__\\_dtickrange.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\tickformatstop\\__pycache__\\_enabled.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\tickformatstop\\__pycache__\\_enabled.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\tickformatstop\\__pycache__\\_name.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\tickformatstop\\__pycache__\\_name.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\tickformatstop\\__pycache__\\_templateitemname.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\tickformatstop\\__pycache__\\_templateitemname.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\tickformatstop\\__pycache__\\_value.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\tickformatstop\\__pycache__\\_value.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\tickformatstop\\__pycache__\\__init__.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\tickformatstop\\__pycache__\\__init__.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\tickfont\\_color.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\tickfont\\_color.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\tickfont\\_family.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\tickfont\\_family.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\tickfont\\_size.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\tickfont\\_size.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\tickfont\\__init__.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\tickfont\\__init__.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\tickfont\\__pycache__\\_color.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\tickfont\\__pycache__\\_color.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\tickfont\\__pycache__\\_family.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\tickfont\\__pycache__\\_family.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\tickfont\\__pycache__\\_size.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\tickfont\\__pycache__\\_size.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\marker\\colorbar\\tickfont\\__pycache__\\__init__.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\marker\\colorbar\\tickfont\\__pycache__\\__init__.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\line\\_backoff.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\line\\_backoff.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\line\\_backoffsrc.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\line\\_backoffsrc.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\line\\_color.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\line\\_color.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\line\\_dash.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\line\\_dash.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\line\\_shape.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\line\\_shape.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\line\\_simplify.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\line\\_simplify.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\line\\_smoothing.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\line\\_smoothing.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\line\\_width.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\line\\_width.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\line\\__init__.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\line\\__init__.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\line\\__pycache__\\_backoff.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\line\\__pycache__\\_backoff.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\line\\__pycache__\\_backoffsrc.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\line\\__pycache__\\_backoffsrc.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\line\\__pycache__\\_color.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\line\\__pycache__\\_color.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\line\\__pycache__\\_dash.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\line\\__pycache__\\_dash.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\line\\__pycache__\\_shape.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\line\\__pycache__\\_shape.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\line\\__pycache__\\_simplify.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\line\\__pycache__\\_simplify.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\line\\__pycache__\\_smoothing.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\line\\__pycache__\\_smoothing.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\line\\__pycache__\\_width.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\line\\__pycache__\\_width.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\line\\__pycache__\\__init__.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\line\\__pycache__\\__init__.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\legendgrouptitle\\_font.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\legendgrouptitle\\_font.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\legendgrouptitle\\_text.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\legendgrouptitle\\_text.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\legendgrouptitle\\__init__.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\legendgrouptitle\\__init__.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\legendgrouptitle\\__pycache__\\_font.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\legendgrouptitle\\__pycache__\\_font.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\legendgrouptitle\\__pycache__\\_text.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\legendgrouptitle\\__pycache__\\_text.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\legendgrouptitle\\__pycache__\\__init__.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\legendgrouptitle\\__pycache__\\__init__.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\legendgrouptitle\\font\\_color.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\legendgrouptitle\\font\\_color.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\legendgrouptitle\\font\\_family.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\legendgrouptitle\\font\\_family.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\legendgrouptitle\\font\\_size.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\legendgrouptitle\\font\\_size.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\legendgrouptitle\\font\\__init__.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\legendgrouptitle\\font\\__init__.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\legendgrouptitle\\font\\__pycache__\\_color.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\legendgrouptitle\\font\\__pycache__\\_color.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\legendgrouptitle\\font\\__pycache__\\_family.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\legendgrouptitle\\font\\__pycache__\\_family.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\legendgrouptitle\\font\\__pycache__\\_size.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\legendgrouptitle\\font\\__pycache__\\_size.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\legendgrouptitle\\font\\__pycache__\\__init__.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\legendgrouptitle\\font\\__pycache__\\__init__.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\hoverlabel\\_align.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\hoverlabel\\_align.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\hoverlabel\\_alignsrc.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\hoverlabel\\_alignsrc.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\hoverlabel\\_bgcolor.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\hoverlabel\\_bgcolor.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\hoverlabel\\_bgcolorsrc.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\hoverlabel\\_bgcolorsrc.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\hoverlabel\\_bordercolor.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\hoverlabel\\_bordercolor.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\hoverlabel\\_bordercolorsrc.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\hoverlabel\\_bordercolorsrc.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\hoverlabel\\_font.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\hoverlabel\\_font.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\hoverlabel\\_namelength.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\hoverlabel\\_namelength.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\hoverlabel\\_namelengthsrc.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\hoverlabel\\_namelengthsrc.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\hoverlabel\\__init__.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\hoverlabel\\__init__.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\hoverlabel\\__pycache__\\_align.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\hoverlabel\\__pycache__\\_align.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\hoverlabel\\__pycache__\\_alignsrc.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\hoverlabel\\__pycache__\\_alignsrc.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\hoverlabel\\__pycache__\\_bgcolor.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\hoverlabel\\__pycache__\\_bgcolor.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\hoverlabel\\__pycache__\\_bgcolorsrc.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\hoverlabel\\__pycache__\\_bgcolorsrc.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\hoverlabel\\__pycache__\\_bordercolor.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\hoverlabel\\__pycache__\\_bordercolor.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\hoverlabel\\__pycache__\\_bordercolorsrc.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\hoverlabel\\__pycache__\\_bordercolorsrc.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\hoverlabel\\__pycache__\\_font.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\hoverlabel\\__pycache__\\_font.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\hoverlabel\\__pycache__\\_namelength.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\hoverlabel\\__pycache__\\_namelength.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\hoverlabel\\__pycache__\\_namelengthsrc.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\hoverlabel\\__pycache__\\_namelengthsrc.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\hoverlabel\\__pycache__\\__init__.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\hoverlabel\\__pycache__\\__init__.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\hoverlabel\\font\\_color.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\hoverlabel\\font\\_color.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\hoverlabel\\font\\_colorsrc.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\hoverlabel\\font\\_colorsrc.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\hoverlabel\\font\\_family.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\hoverlabel\\font\\_family.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\hoverlabel\\font\\_familysrc.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\hoverlabel\\font\\_familysrc.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\hoverlabel\\font\\_size.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\hoverlabel\\font\\_size.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\hoverlabel\\font\\_sizesrc.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\hoverlabel\\font\\_sizesrc.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\hoverlabel\\font\\__init__.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\hoverlabel\\font\\__init__.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\hoverlabel\\font\\__pycache__\\_color.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\hoverlabel\\font\\__pycache__\\_color.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\hoverlabel\\font\\__pycache__\\_colorsrc.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\hoverlabel\\font\\__pycache__\\_colorsrc.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\hoverlabel\\font\\__pycache__\\_family.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\hoverlabel\\font\\__pycache__\\_family.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\hoverlabel\\font\\__pycache__\\_familysrc.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\hoverlabel\\font\\__pycache__\\_familysrc.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\hoverlabel\\font\\__pycache__\\_size.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\hoverlabel\\font\\__pycache__\\_size.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\hoverlabel\\font\\__pycache__\\_sizesrc.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\hoverlabel\\font\\__pycache__\\_sizesrc.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\hoverlabel\\font\\__pycache__\\__init__.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\hoverlabel\\font\\__pycache__\\__init__.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\fillpattern\\_bgcolor.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\fillpattern\\_bgcolor.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\fillpattern\\_bgcolorsrc.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\fillpattern\\_bgcolorsrc.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\fillpattern\\_fgcolor.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\fillpattern\\_fgcolor.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\fillpattern\\_fgcolorsrc.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\fillpattern\\_fgcolorsrc.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\fillpattern\\_fgopacity.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\fillpattern\\_fgopacity.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\fillpattern\\_fillmode.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\fillpattern\\_fillmode.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\fillpattern\\_shape.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\fillpattern\\_shape.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\fillpattern\\_shapesrc.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\fillpattern\\_shapesrc.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\fillpattern\\_size.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\fillpattern\\_size.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\fillpattern\\_sizesrc.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\fillpattern\\_sizesrc.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\fillpattern\\_solidity.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\fillpattern\\_solidity.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\fillpattern\\_soliditysrc.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\fillpattern\\_soliditysrc.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\fillpattern\\__init__.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\fillpattern\\__init__.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\fillpattern\\__pycache__\\_bgcolor.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\fillpattern\\__pycache__\\_bgcolor.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\fillpattern\\__pycache__\\_bgcolorsrc.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\fillpattern\\__pycache__\\_bgcolorsrc.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\fillpattern\\__pycache__\\_fgcolor.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\fillpattern\\__pycache__\\_fgcolor.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\fillpattern\\__pycache__\\_fgcolorsrc.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\fillpattern\\__pycache__\\_fgcolorsrc.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\fillpattern\\__pycache__\\_fgopacity.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\fillpattern\\__pycache__\\_fgopacity.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\fillpattern\\__pycache__\\_fillmode.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\fillpattern\\__pycache__\\_fillmode.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\fillpattern\\__pycache__\\_shape.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\fillpattern\\__pycache__\\_shape.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\fillpattern\\__pycache__\\_shapesrc.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\fillpattern\\__pycache__\\_shapesrc.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\fillpattern\\__pycache__\\_size.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\fillpattern\\__pycache__\\_size.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\fillpattern\\__pycache__\\_sizesrc.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\fillpattern\\__pycache__\\_sizesrc.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\fillpattern\\__pycache__\\_solidity.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\fillpattern\\__pycache__\\_solidity.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\fillpattern\\__pycache__\\_soliditysrc.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\fillpattern\\__pycache__\\_soliditysrc.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\fillpattern\\__pycache__\\__init__.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\fillpattern\\__pycache__\\__init__.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_y\\_array.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_y\\_array.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_y\\_arrayminus.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_y\\_arrayminus.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_y\\_arrayminussrc.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_y\\_arrayminussrc.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_y\\_arraysrc.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_y\\_arraysrc.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_y\\_color.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_y\\_color.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_y\\_symmetric.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_y\\_symmetric.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_y\\_thickness.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_y\\_thickness.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_y\\_traceref.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_y\\_traceref.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_y\\_tracerefminus.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_y\\_tracerefminus.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_y\\_type.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_y\\_type.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_y\\_value.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_y\\_value.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_y\\_valueminus.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_y\\_valueminus.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_y\\_visible.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_y\\_visible.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_y\\_width.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_y\\_width.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_y\\__init__.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_y\\__init__.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_y\\__pycache__\\_array.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_y\\__pycache__\\_array.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_y\\__pycache__\\_arrayminus.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_y\\__pycache__\\_arrayminus.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_y\\__pycache__\\_arrayminussrc.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_y\\__pycache__\\_arrayminussrc.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_y\\__pycache__\\_arraysrc.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_y\\__pycache__\\_arraysrc.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_y\\__pycache__\\_color.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_y\\__pycache__\\_color.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_y\\__pycache__\\_symmetric.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_y\\__pycache__\\_symmetric.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_y\\__pycache__\\_thickness.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_y\\__pycache__\\_thickness.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_y\\__pycache__\\_traceref.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_y\\__pycache__\\_traceref.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_y\\__pycache__\\_tracerefminus.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_y\\__pycache__\\_tracerefminus.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_y\\__pycache__\\_type.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_y\\__pycache__\\_type.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_y\\__pycache__\\_value.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_y\\__pycache__\\_value.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_y\\__pycache__\\_valueminus.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_y\\__pycache__\\_valueminus.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_y\\__pycache__\\_visible.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_y\\__pycache__\\_visible.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_y\\__pycache__\\_width.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_y\\__pycache__\\_width.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_y\\__pycache__\\__init__.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_y\\__pycache__\\__init__.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_x\\_array.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_x\\_array.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_x\\_arrayminus.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_x\\_arrayminus.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_x\\_arrayminussrc.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_x\\_arrayminussrc.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_x\\_arraysrc.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_x\\_arraysrc.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_x\\_color.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_x\\_color.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_x\\_copy_ystyle.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_x\\_copy_ystyle.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_x\\_symmetric.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_x\\_symmetric.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_x\\_thickness.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_x\\_thickness.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_x\\_traceref.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_x\\_traceref.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_x\\_tracerefminus.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_x\\_tracerefminus.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_x\\_type.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_x\\_type.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_x\\_value.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_x\\_value.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_x\\_valueminus.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_x\\_valueminus.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_x\\_visible.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_x\\_visible.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_x\\_width.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_x\\_width.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_x\\__init__.py',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_x\\__init__.py',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_x\\__pycache__\\_array.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_x\\__pycache__\\_array.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_x\\__pycache__\\_arrayminus.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_x\\__pycache__\\_arrayminus.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_x\\__pycache__\\_arrayminussrc.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_x\\__pycache__\\_arrayminussrc.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_x\\__pycache__\\_arraysrc.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_x\\__pycache__\\_arraysrc.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_x\\__pycache__\\_color.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_x\\__pycache__\\_color.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_x\\__pycache__\\_copy_ystyle.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_x\\__pycache__\\_copy_ystyle.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_x\\__pycache__\\_symmetric.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_x\\__pycache__\\_symmetric.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_x\\__pycache__\\_thickness.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_x\\__pycache__\\_thickness.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_x\\__pycache__\\_traceref.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_x\\__pycache__\\_traceref.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_x\\__pycache__\\_tracerefminus.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_x\\__pycache__\\_tracerefminus.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_x\\__pycache__\\_type.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_x\\__pycache__\\_type.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_x\\__pycache__\\_value.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_x\\__pycache__\\_value.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_x\\__pycache__\\_valueminus.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_x\\__pycache__\\_valueminus.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_x\\__pycache__\\_visible.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_x\\__pycache__\\_visible.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_x\\__pycache__\\_width.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_x\\__pycache__\\_width.cpython-39.pyc',
+   'DATA'),
+  ('.\\plotly\\validators\\scatter\\error_x\\__pycache__\\__init__.cpython-39.pyc',
+   'C:\\Users\\Michael '
+   'Peters\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\plotly\\validators\\scatter\\error_x\\__pycache__\\__init__.cpython-39.pyc',
+   'DATA')])
